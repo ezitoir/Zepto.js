@@ -3,7 +3,7 @@
 //     Zepto.js may be freely distributed under the MIT license.
 
 ;(function($){
-  var jsonpID = +new Date(),
+  var jsonpID = + new Date(),
       document = window.document,
       key,
       name,
